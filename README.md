@@ -3,11 +3,13 @@ Software-Engineering
 
 ## 01. title
 
-Write here
+NAU Book Mart
 
 ## 02. description
 
-Write here
+This will be a marketplace for NAU students, where students would be willing to sell new or used textbooks that are required by NAU courses.
+
+Rent or buy a textbook from fellow students in NAU. NAU Book Mart will allow seeing which textbooks are required for specific course without looking to syllabus. It’s going to give global market price.
 
 ## 03. mind map
 
