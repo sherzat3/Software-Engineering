@@ -13,7 +13,7 @@ Rent or buy a textbook from fellow students in NAU. NAU Book Mart will allow see
 
 ## 03. mind map
 
-[MinMap](http://j.mp/1mBfNnt)
+http://goo.gl/LJ80HT
 
 ## 04. scenario of the usage
 
